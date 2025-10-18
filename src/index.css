@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for modal box and colors to match sample */
+:root{
+  --teal: #22b8b8;
+  --green: #2fb86f;
+  --pink: #f48fb1;
+  --blue-box: #e6f7fb;
+}
+
+body { @apply bg-gray-50; }
